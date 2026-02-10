@@ -1,6 +1,8 @@
+Firefox AMO: https://addons.mozilla.org/zh-TW/firefox/addon/templatetree/
+
 Editable Template Insert Tree
 
-Editable Template Insert Tree is a Firefox browser extension that allows users to quickly insert reusable templates into web pages using a tree-based structure. It is designed to improve productivity for users who frequently write repetitive content such as emails, forms, code snippets, or documentation.
+Editable Template Insert Tree is a browser extension that allows users to quickly insert reusable templates into web pages using a tree-based structure. It is designed to improve productivity for users who frequently write repetitive content such as emails, forms, code snippets, or documentation.
 
 ✨ Features
 
@@ -13,4 +15,6 @@ Editable Template Insert Tree is a Firefox browser extension that allows users t
 🗂 Organize templates with categories
 
 💾 Local storage (no cloud, no tracking)
+
+
 
