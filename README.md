@@ -1,5 +1,7 @@
 Demo:https://github.com/Ben-Tseng/Editable-Template-Insert-Tree/blob/main/Demo_TemplateTree.gif
 
+Chrome Web Store：https://chromewebstore.google.com/detail/templatetree/lgnjggegapjlkoaadecccmlahpppbjdd
+
 Firefox AMO: https://addons.mozilla.org/zh-TW/firefox/addon/templatetree/
 
 Editable Template Insert Tree
