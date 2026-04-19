@@ -1,0 +1,34 @@
+{
+    "manifest_version": 2,
+    "name": "TemplateTree Iframe Fix",
+    "description": "Hierarchical template management with tree-based right-click menu insertion",
+    "version": "3.1",
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icons/1.png",
+            "32": "icons/2.png"
+        }
+    },
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": true
+    },
+    "permissions": [
+        "activeTab",
+        "contextMenus",
+        "notifications",
+        "storage",
+        "tabs"
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{49DF2397-E6BF-4518-93ED-603889715EDE}"
+        }
+    }
+}
